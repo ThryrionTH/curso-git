@@ -1,1 +1,2 @@
 ¡Probando GitBash con ayuda de GitHub!
+Estoy aprendiendo Git y fusión de ramas
